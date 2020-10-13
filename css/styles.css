@@ -66,6 +66,12 @@ a:hover {
 
 }
 
+.top-container-contact {
+  background-color: #a6f6f1;
+  position: relative;
+  padding-top: 2%;
+}
+
 .bottom-container-contact {
   background-color: #a6f6f1;
   padding: 20px 0 20px;
