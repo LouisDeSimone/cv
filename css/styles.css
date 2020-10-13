@@ -28,6 +28,7 @@ h3 {
 
 p {
   line-height: 2;
+  font-family: 'Montserrat', sans-serif;
 }
 
 hr {
@@ -87,7 +88,7 @@ a:hover {
   margin-right: 30px;
 }
 .japanesepic{
-  max-width: 50%;
+  max-width: 25%;
   height: auto;
   float: right;
   margin-left: 30px;
@@ -108,7 +109,11 @@ a:hover {
 .skill-row-2{
   width: 50%;
   margin: 100px auto 175px auto;
-  text-align: left;
+  text-align: right;
+}
+
+
+
 }
 .intro {
   width: 30%;
