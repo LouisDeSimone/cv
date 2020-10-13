@@ -66,6 +66,14 @@ a:hover {
 
 }
 
+.bottom-container-contact {
+  background-color: #a6f6f1;
+  padding: 20px 0 20px;
+  margin-top: 200px;
+
+
+}
+
 .bottom-cloud {
   position: absolute;
   left: 350px;
@@ -123,6 +131,9 @@ a:hover {
   font-size: 1.25rem;
 }
 
+.contact-text-box {
+  font-family: 'Montserrat', sans-serif;
+}
 .copyright {
   color: #EAF6F6;
   font-size: 0.85rem;
